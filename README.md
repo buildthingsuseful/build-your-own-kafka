@@ -14,8 +14,8 @@ This incremental staged approach allows you to build and understand each compone
 7. Building higher level producer and consumer APIs
 8. Test the system
 
-[Visit Medium For Stage 1 to Stage 7 step by step explantion](https://medium.com/@buildthingsuseful/building-your-own-kafka-like-system-from-scratch-a-step-by-step-guide-d3c5f0a303c0)
-
+## Stages 1 through 7
+For Stages 1 through 7, follow the detailed step by step [medium](https://medium.com/@buildthingsuseful/building-your-own-kafka-like-system-from-scratch-a-step-by-step-guide-d3c5f0a303c0) article while referencing the GitHub repository alongside it. This combination will help you progress through each section systematically.
 
 By building each component yourself, you'll gain a deep understanding of Kafka's architecture and the design decisions behind it. This knowledge will be invaluable when working with the real Kafka or designing your own distributed systems.
 
