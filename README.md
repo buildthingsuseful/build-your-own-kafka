@@ -1,6 +1,3 @@
-Here's a markdown version of the page:
-
-```markdown
 # Building Your Own Kafka-like System From Scratch: A Step-by-Step Guide
 
 If you're looking to truly understand Kafka's architecture by implementing a simplified version yourself, you've come to the right place. Rather than just copying code, we'll build SimpleKafka incrementally, understanding each component as we go. This approach will give you a deep understanding of distributed messaging systems.
@@ -88,4 +85,3 @@ Watch how a topic gets divided into partitions and how those partitions are dist
 - The binary protocol format
 - Request/response patterns
 - How clients discover and connect to the right brokers
-```
